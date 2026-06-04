@@ -45,5 +45,5 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AayushVerma16/AayushVerma16/main/wave.svg" alt="Wave" />
+  <img src="https://github.com/AayushVerma16/AayushVerma16/blob/main/wave.svg" alt="Wave" />
 </p>
