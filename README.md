@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/888krishnam">
+  <a href="https://github.com/AayushVerma16">
     <img src="https://skillicons.dev/icons?i=java,python,js,ts,nodejs,express,react,bootstrap,tailwind,materialui,git,github,postgres,firebase,gcp,postman,docker,linux&perline=9" alt="Skills Icons" />
   </a>
 </p>
