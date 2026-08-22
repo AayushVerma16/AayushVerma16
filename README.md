@@ -31,7 +31,7 @@
   <a href="https://www.linkedin.com/in/aayush-verma-262785330/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28">
   </a>
-  <a href="https://codeforces.com/profile/aayushverma">
+  <a href="https://codeforces.com/profile/aayushverma_">
     <img src="https://img.shields.io/badge/Codeforces-%23100000.svg?style=for-the-badge&logo=codeforces&logoColor=white" height="28">
   </a>
   <a href="https://leetcode.com/u/aayush1309/">
